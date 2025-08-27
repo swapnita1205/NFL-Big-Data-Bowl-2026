@@ -1,1 +1,2 @@
-# Corporate-Carbon-Footprint-Energy-Efficiency-Analytics-Platform
+Global companies face increasing pressure to reduce carbon emissions, optimize energy use, and meet ESG compliance standards. However, fragmented data across plants, products, and supply chains makes it difficult to track and act on sustainability metrics.
+This project aims to design an end-to-end analytics platform that collects, models, and visualizes sustainability data, enabling companies to make data-driven decisions to reduce emissions and improve energy efficiency
